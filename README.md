@@ -1,2 +1,2 @@
 # pekaen-ganteng
-tugas pkn
+tugas pas pkn
